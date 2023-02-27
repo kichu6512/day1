@@ -1,0 +1,32 @@
+.parent{
+    font-family: 'Poppins', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    padding: 40px;
+}
+
+a:-webkit-any-link {
+    color: -webkit-link;
+    cursor: pointer;
+    text-decoration: none;
+    color: grey;
+}
+
+#hello{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 40%;
+    left: 30%;
+}
+
+#name{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    position: absolute;
+    top: 45%;
+    left: 30%;
+}
+
+.main{
+    background-color:#D6DEF8
+}
